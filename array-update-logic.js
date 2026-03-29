@@ -8,7 +8,7 @@ let target = learningPath.indexOf("JS");
 if (target !== -1) {
     // احذف "JS" (عنصر واحد) وضع مكانها "Next.js"
     learningPath.splice(target, 1, "Next.js");
-    console.log("✅ تم التحديث بنجاح!");
+    console.log(" تم التحديث بنجاح!");
 } else {
     // في حال لم يجد الكود الكلمة
     console.log(" االعنصر غير موجود في القائمة.");
