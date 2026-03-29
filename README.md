@@ -10,6 +10,9 @@
 ## محتويات المستودع:
 1. `analyze-numbers.js`: تطبيق على الدوال (Functions) والعمليات الحسابية.
 2. `array-update-logic.js`: منطق البحث والتعديل الديناميكي في المصفوفات باستخدام `indexOf` و `splice`.
+3. `employee-salary-system.js`:  نظام لإدارة رواتب الموظفين، يطبق منطق الزيادات بناءً على الأداء باستخدام Arrow Functions والتعامل مع Array of Objects.
+   
+
 
 
 ##  الأدوات المستخدمة:
