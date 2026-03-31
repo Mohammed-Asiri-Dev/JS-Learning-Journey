@@ -12,7 +12,7 @@
 2. `array-update-logic.js`: منطق البحث والتعديل الديناميكي في المصفوفات باستخدام `indexOf` و `splice`.
 3. `employee-salary-system.js`:  نظام لإدارة رواتب الموظفين، يطبق منطق الزيادات بناءً على الأداء باستخدام Arrow Functions والتعامل مع Array of Objects.
 4. `pharmacy-inventory-logic.js`: .نظام لإدارة أدوية الصيدلية، يفلتر الأدوية التي لا تتطلب وصفة طبية ويعرض أسعارها بشكل منسق
-   
+5. `pharmacy-logic-v2-destructuring.js` :  Destructuring (Nested, Renaming, Default Values) اعادة بناء لمنطق الصيدلية باستخدام تقنيات 
 
 
 
@@ -20,7 +20,10 @@
 - Visual Studio Code
 - GitHub for Version Control
 - Node.js for testing
-- JavaScript ES6+:(Arrow Functions and Template Literals).
+- Modern JS (ES6+): 
+( Arrow Functions & Template Literals &
+Advanced Destructuring &
+Nullish Coalescing (??) ).
 
 ---
 *تم التحديث بواسطة: محمد*
